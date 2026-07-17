@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Ayush Shrivastava 👋
+## Aspiring Cybersecurity Engineer
 
-<!--
-**AyushShrivastavaCSec/AyushShrivastavaCSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a BCA student with a strong interest in Cybersecurity, Network Security, and Ethical Hacking.
 
-Here are some ideas to get you started:
+My goal is to build practical cybersecurity skills through hands-on projects, continuous learning, and industry-recognized certifications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Areas of Interest
+- Cybersecurity
+- Ethical Hacking
+- Network Security
+- Linux
+- Python
+- Digital Forensics
+- Web Application Security
+
+### Currently Learning
+- Linux Administration
+- Networking Fundamentals
+- Python for Cybersecurity
+- Web Security
+- SOC Operations
+
+### Goal
+To become a skilled Cybersecurity Engineer capable of protecting systems, identifying vulnerabilities, and solving real-world security challenges.
