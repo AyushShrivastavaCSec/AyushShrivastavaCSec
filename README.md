@@ -88,7 +88,7 @@ My objective is to become a professional Cybersecurity Engineer by mastering sec
 
 **GitHub:** https://github.com/AyushShrivastavaCSec
 
-**Email:** your-email@example.com
+**Email:**  nikhilshrivastava2345@gmail.com
 
 ---
 
